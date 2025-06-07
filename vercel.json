@@ -10,6 +10,8 @@
     }],
     "env": {
         "APP_ENV": "production",
+        "APP_KEY": "base64:SeqP4KnaSby5Xjro7FIB7GZYghe1LMDIpW3N9vD9/bI=",
+
         "APP_DEBUG": "true",
         "APP_URL": "https://yourproductionurl.com",
  
